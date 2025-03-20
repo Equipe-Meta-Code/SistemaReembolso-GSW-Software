@@ -1,0 +1,6 @@
+[submodule "Frontend_SistemaReembolso"]
+	path = Frontend_SistemaReembolso
+	url = https://github.com/Equipe-Meta-Code/Frontend_SistemaReembolso.git
+[submodule "Backend_SistemaReembolso"]
+	path = Backend_SistemaReembolso
+	url = https://github.com/Equipe-Meta-Code/Backend_SistemaReembolso.git
