@@ -87,20 +87,21 @@ Desenvolver um aplicativo móvel para o lançamento de reembolso de despesas, ga
 <span id="modelagem-bd">
 ## 📂 Modelagem de Banco de Dados
 
-<span id="videos-entregas">
-## 📽️ Vídeos de Entrega das Sprints
-<details>
-     <summary>Sprints</summary>
-     
-     Sprint 1
-     
-     Sprint 2
-     
-     Sprint 3
-</details>
+
 
 <span id="instalação">
 ## 📥 Guia de Instalação -->
+<span id="videos-entregas">
+     
+## 📽️ Vídeos de Entrega das Sprints
+
+<details >
+     
+<summary>Sprint 1</summary>
+
+https://github.com/user-attachments/assets/fd2b5b8f-8bc0-4117-948f-7c332a74f33a
+
+</details>
 
 <span id="equipe">
 
