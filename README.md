@@ -3,12 +3,13 @@
 <p align="center">
      <a href ="#objetivo">Objetivo</a>  |
      <a href ="#requisitos">Requisitos</a>  |
+     <a href ="#cronograma">Cronograma</a>  |
      <a href ="#tecnologias">Tecnologias</a>  |
      <a href ="#backlog">Backlog</a>  |
-      <a href ="#mvp">MVP</a>  |
-     <a href ="#equipe">Equipe</a>  |
+     <a href ="#mvp">MVP</a>  |
      <a href =#prototipo>Protótipo<a/> |
-     <a href =#videos-entregas>Vídeos<a/>
+     <a href =#videos-entregas>Vídeos<a/> |
+     <a href ="#equipe">Equipe</a>  |
    </p>
 
 <span id="objetivo">
@@ -35,6 +36,19 @@ Desenvolver um aplicativo móvel para o lançamento de reembolso de despesas, ga
 - Manual do Usuário
 - Documentação API - Application Programming Interface
 - Modelagem de Banco de Dados
+
+<span id="cronograma">  
+   
+## ⏳ Cronograma    
+
+| Kick-off | 25 fev 2025
+| --- | --- |
+| Sprint 1 | 10/mar - 30/mar |
+| Planning | 31/mar - 04/abr |
+| Sprint 2 | 07/abr - 27/abr |
+| Planning | 28/abr - 02/mai |
+| Sprint 3 | 05/mai - 25/mai |
+| Review   | 26/mai - 28/mai |
 
 <span id="tecnologias">
   
@@ -85,8 +99,8 @@ Desenvolver um aplicativo móvel para o lançamento de reembolso de despesas, ga
 
 <span id="prototipo">
      
-## 📲 Protótipo Figma
-* [Clique aqui](https://www.figma.com/design/ggjMhKZe8I1IaFGjzGx4V0/APP---RefundGo?node-id=0-1&p=f&t=VD4qXCwoVmp0CVLB-0) para acessar o protótipo!
+## Protótipo Figma
+* 📲 [Clique aqui](https://www.figma.com/design/ggjMhKZe8I1IaFGjzGx4V0/APP---RefundGo?node-id=0-1&p=f&t=VD4qXCwoVmp0CVLB-0) para acessar o protótipo!
 
 <!-- 
 <span id="modelagem-bd">
@@ -98,7 +112,7 @@ Desenvolver um aplicativo móvel para o lançamento de reembolso de despesas, ga
 ## 📥 Guia de Instalação -->
 <span id="videos-entregas">
      
-## 📽️ Vídeos de Entrega das Sprints
+## Vídeos de Entrega
 
 <details >
      
@@ -109,10 +123,8 @@ https://github.com/user-attachments/assets/fd2b5b8f-8bc0-4117-948f-7c332a74f33a
 </details>
 
 <span id="equipe">
-
+     
 ## 👥 Equipe
-
-<br>
 
 |Nome|Função|GitHub|
 | -------- |-------- |-------- |
