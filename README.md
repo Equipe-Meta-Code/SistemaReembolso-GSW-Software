@@ -9,7 +9,7 @@
      <a href ="#mvp">MVP</a>  |
      <a href =#prototipo>Protótipo<a/> |
      <a href =#videos-entregas>Vídeos<a/> |
-     <a href ="#equipe">Equipe</a>  |
+     <a href ="#equipe">Equipe</a>  
    </p>
 
 <span id="objetivo">
@@ -100,7 +100,7 @@ Desenvolver um aplicativo móvel para o lançamento de reembolso de despesas, ga
 <span id="prototipo">
      
 ## Protótipo Figma
-* 📲 [Clique aqui](https://www.figma.com/design/ggjMhKZe8I1IaFGjzGx4V0/APP---RefundGo?node-id=0-1&p=f&t=VD4qXCwoVmp0CVLB-0) para acessar o protótipo!
+📲 [Clique aqui](https://www.figma.com/design/ggjMhKZe8I1IaFGjzGx4V0/APP---RefundGo?node-id=0-1&p=f&t=VD4qXCwoVmp0CVLB-0) para acessar o protótipo! *(Segure `Ctrl` e clique para abrir em nova guia)*
 
 <!-- 
 <span id="modelagem-bd">
