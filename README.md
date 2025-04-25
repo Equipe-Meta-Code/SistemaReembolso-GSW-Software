@@ -56,8 +56,8 @@ Desenvolver um aplicativo móvel para o lançamento de reembolso de despesas, ga
 
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript) | ![REACT](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react) | ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react) |
 | --- | --- | --- | --- |
-| ![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=android) | ![Expo](https://img.shields.io/badge/-Expo-0D1117?style=for-the-badge&logo=expo) | ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql) | ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb) |
-| ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode) | ![FIGMA](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) | ![JIRA](https://img.shields.io/badge/-JIRA-0D1117?style=for-the-badge&logo=jira) | ![Microsoft](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office) | 
+| ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js) | ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb) | ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql) | ![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=android-studio) |
+| ![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=android) | ![Expo](https://img.shields.io/badge/-Expo-0D1117?style=for-the-badge&logo=expo) | ![FIGMA](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) | ![JIRA](https://img.shields.io/badge/-JIRA-0D1117?style=for-the-badge&logo=jira) | 
 
 <span id="backlog">
   
