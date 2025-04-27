@@ -93,7 +93,7 @@ Desenvolver um aplicativo móvel para o lançamento de reembolso de despesas, ga
   
 ## MVP - Mínimo Produto Viável
 <div style="display: flex;">
-  <img src="https://github.com/user-attachments/assets/e396dd53-5f2d-4535-b9d3-aafa57707524" width="390">
+  <img src="https://github.com/user-attachments/assets/63b1b743-0077-415b-91e3-ea1cf915bc6d" width="390">
 </div>
 
 
