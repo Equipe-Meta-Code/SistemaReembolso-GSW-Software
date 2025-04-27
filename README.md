@@ -85,8 +85,8 @@ Desenvolver um aplicativo móvel para o lançamento de reembolso de despesas, ga
 </details>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/3b29d1eb-0e25-4469-a901-6769ca6238f6" width="450"/>
-  <img src="https://github.com/user-attachments/assets/87acea7f-00a7-43dc-aa09-25d32aa2f576" width="450"/>
+  <img src="https://github.com/user-attachments/assets/78ad6986-1a1b-46be-86d0-783f28386610" width="350"/>
+  <img src="https://github.com/user-attachments/assets/4842f75b-cd83-4593-b839-f2ebf51fc344" width="350"/>
 </p>
 
 <span id="mvp">
