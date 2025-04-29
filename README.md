@@ -72,7 +72,7 @@ Desenvolver um aplicativo móvel para o lançamento de reembolso de despesas, ga
 | 2 | Alta | Eu, como funcionário, quero registrar minhas despesas e solicitar reembolso de forma prática pelo meu dispositivo móvel, para facilitar o processo. | 8 | 1 | RF6 | Desenvolver uma aplicação para uma plataforma móvel, como smartphones ou tablets, garantindo praticidade. |
 | 3 | Alta | Eu, como gestor, quero acessar as despesas dos projetos e funcionários, bem como suas solicitações de reembolso, para gerenciar os pedidos e monitorar os gastos da empresa. | 10 | 1 | RF6 | Integrar com o sistema corporativo para fornecer e receber informações do solicitante (Nome, Centro de Custo, Projeto) e detalhes da despesa (Data, Valor, Quantidade, Descrição, Anexo). |
 | 4 | Alta | Eu, como usuário, quero criar e acessar minha conta no aplicativo, para cadastrar minhas despesas e solicitar os reembolsos. | 8 | 1 | RF6 | O usuário deve conseguir criar uma conta informando dados básicos e deve conseguir fazer login com as credenciais cadastradas. |
-| 5 | Média | Eu, como usuário, quero anexar comprovantes e adicionar descrições às minhas despesas para facilitar a validação. | 13 | 2 | RF2, RF3 | O usuário deve conseguir anexar imagens de comprovantes (JPEG, PNG, PDF) e inserir uma descrição detalhada da despesa. O sistema deve garantir que as despesas com comprovantes anexados e descrições salvas fiquem disponíveis para análise. |
+| 5 | Média | Eu, como usuário, quero anexar comprovantes e adicionar descrições às minhas despesas para facilitar a validação. | 13 | 3 | RF2, RF3 | O usuário deve conseguir anexar imagens de comprovantes (JPEG, PNG, PDF) e inserir uma descrição detalhada da despesa. O sistema deve garantir que as despesas com comprovantes anexados e descrições salvas fiquem disponíveis para análise. |
 | 6 | Média | Eu, como funcionário, quero visualizar o status de aprovação das minhas solicitações de reembolso, para acompanhar o andamento do processo. | 10 | 2 | RF5 | Permitir o acompanhamento do status de aprovação das solicitações de reembolso. |
 | 7 | Média | Eu, como usuário, quero visualizar os limites de reembolso para cada categoria de despesa nos projetos, garantindo um melhor controle financeiro. | 8 | 2 | RF4 | O sistema deve exibir o limite de reembolso disponível para cada projeto e o usuário deve conseguir visualizar o valor total do limite e quanto já foi utilizado. |
 | 8 | Média | Eu, como usuário, quero que o sistema calcule automaticamente o valor total das minhas despesas com base nos valores e quantidades informados, para visualizar com precisão os meus gastos. | 6 | 2 | RF1, RF4, RF6 | O sistema deve calcular automaticamente o total das despesas por solicitante e por projeto, considerando os valores e quantidades de cada item no registro de despesas. O total deve ser atualizado em tempo real conforme o usuário altera os valores ou quantidades. |
@@ -85,15 +85,16 @@ Desenvolver um aplicativo móvel para o lançamento de reembolso de despesas, ga
 </details>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/6e512cff-0be0-4915-bc27-66a72baba9f3" width="390"/>
-  <img src="https://github.com/user-attachments/assets/97de71c0-b576-42d5-b083-5ba1aa1ccb93" width="390"/>
+  <img src="https://github.com/user-attachments/assets/cb70734c-c75b-4044-ad2e-598b14b49708" width="390"/>
+  <img src="https://github.com/user-attachments/assets/444dfd41-c4e4-4f8a-951c-10af01183e53" width="390"/>
 </p>
+
 
 <span id="mvp">
   
 ## MVP - Mínimo Produto Viável
 <div style="display: flex;">
-  <img src="https://github.com/user-attachments/assets/63b1b743-0077-415b-91e3-ea1cf915bc6d" width="390">
+  <img src="https://github.com/user-attachments/assets/4645b42c-b331-4f03-8357-1c7c1507201e" width="390">
 </div>
 
 
@@ -110,6 +111,7 @@ Desenvolver um aplicativo móvel para o lançamento de reembolso de despesas, ga
 
 <span id="instalação">
 ## 📥 Guia de Instalação -->
+
 <span id="videos-entregas">
      
 ## Vídeos de Entrega
