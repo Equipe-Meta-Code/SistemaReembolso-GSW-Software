@@ -116,13 +116,23 @@ Desenvolver um aplicativo móvel para o lançamento de reembolso de despesas, ga
      
 ## Vídeos de Entrega
 
-<details >
+<details>
      
 <summary>Sprint 1</summary>
 
 https://github.com/user-attachments/assets/fd2b5b8f-8bc0-4117-948f-7c332a74f33a
 
 </details>
+
+
+<details>
+     
+<summary>Sprint 2</summary>
+
+https://github.com/user-attachments/assets/95df7846-001a-4841-87b1-d7bc0b4af24e
+
+</details>
+
 
 <span id="equipe">
      
