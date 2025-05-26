@@ -8,6 +8,7 @@
      <a href ="#backlog">Backlog</a>  |
      <a href ="#mvp">MVP</a>  |
      <a href =#prototipo>Protótipo<a/> |
+     <a href =#modelagem-bd>Modelagem BD<a/> |
      <a href =#videos-entregas>Vídeos<a/> |
      <a href ="#equipe">Equipe</a>  
    </p>
@@ -103,14 +104,16 @@ Desenvolver um aplicativo móvel para o lançamento de reembolso de despesas, ga
 ## Protótipo Figma
 📲 [Clique aqui](https://www.figma.com/design/ggjMhKZe8I1IaFGjzGx4V0/APP---RefundGo?node-id=0-1&p=f&t=VD4qXCwoVmp0CVLB-0) para acessar o protótipo! *(Segure `Ctrl` e clique para abrir em nova guia)*
 
-<!-- 
 <span id="modelagem-bd">
-## 📂 Modelagem de Banco de Dados
-
+     
+## Modelagem de Banco de Dados
+<img src="https://github.com/user-attachments/assets/ccc12f4b-1799-42d0-9bc5-6014579a24f3" width="450"/>
 
 
 <span id="instalação">
-## 📥 Guia de Instalação -->
+     
+## 📥 Guia de Instalação
+
 
 <span id="videos-entregas">
      
