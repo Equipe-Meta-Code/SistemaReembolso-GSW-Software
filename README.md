@@ -9,6 +9,7 @@
      <a href ="#mvp">MVP</a>  |
      <a href =#prototipo>Protótipo<a/> |
      <a href =#modelagem-bd>Modelagem BD<a/> |
+     <a href =#instalação>Instalação<a/> |
      <a href =#videos-entregas>Vídeos<a/> |
      <a href ="#equipe">Equipe</a>  
    </p>
