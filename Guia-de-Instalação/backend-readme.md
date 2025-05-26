@@ -13,12 +13,12 @@
   npm install
   ```
 * Configurar informações
-  * Acesse o arquivo [.env.example](./.env.example)
+  * Acesse o arquivo ```.env.example```
   * Renomeie este arquivo para `.env`;
   * Preencha os campos com suas informações reais.
 
 * Configurar informações do banco de dados MySQL
-  * Acesse o arquivo [database.ts](./src/config/database.ts)
+  * Acesse o arquivo ```database.ts```em ```./src/config/database.ts```
   * Adicione a senha do banco de dados
   
 * Inicie o backend com o comando:
