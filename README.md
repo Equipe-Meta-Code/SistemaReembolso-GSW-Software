@@ -140,6 +140,15 @@ https://github.com/user-attachments/assets/95df7846-001a-4841-87b1-d7bc0b4af24e
 </details>
 
 
+<details>
+     
+<summary>Sprint 3</summary>
+
+https://github.com/user-attachments/assets/df1af3b6-a452-4b38-95bf-447d9c58e5e0
+
+</details>
+
+
 <span id="equipe">
      
 ## 👥 Equipe
